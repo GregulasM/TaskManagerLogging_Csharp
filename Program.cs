@@ -26,6 +26,16 @@ namespace TaskManager
         static void Main(string[] args)
         {
 
+            var configuration = new ConfigurationBuilder()
+                .AddJsonFile("appsettings.json", optional: false, reloadOnChange: true)
+                .Build();
+            
+            Log.Logger = new LoggerConfiguration()
+                .ReadFrom.Configuration(configuration) 
+                .CreateLogger();
+            
+            Log.Information("Приложение успешно запущено (через appsettings.json)!");
+
             // Задаем вывод в консоль и в текстовый файл, делаем автозапись в файл.
             Trace.Listeners.Add(new ConsoleTraceListener());
             Trace.Listeners.Add(new TextWriterTraceListener("TaskManager.txt"));
