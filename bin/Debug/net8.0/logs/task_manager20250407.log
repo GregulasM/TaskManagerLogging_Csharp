@@ -23,3 +23,37 @@
 [21:58:26 INF] Производится выход из программы
 [21:58:26 INF] Общее время работы программы: 9408 мс (9 сек.)
 [21:58:26 INF] ------Завершение работы программы------
+[23:51:04 INF] ------Приложение успешно запущено (через appsettings.json)------
+[23:51:04 INF] Запуск цикла программы
+[23:51:04 INF] Выбор вариантов ответа и ввод данных
+[23:51:08 FTL] Ввод при выборе задачи пуст.
+[23:53:35 INF] ------Приложение успешно запущено (через appsettings.json)------
+[23:53:35 INF] Запуск цикла программы
+[23:53:35 INF] Выбор вариантов ответа и ввод данных
+[23:53:37 INF] Правильного ввода команды не произошло
+[23:53:37 INF] Выбор вариантов ответа и ввод данных
+[23:53:55 INF] Правильного ввода команды не произошло
+[23:53:55 INF] Выбор вариантов ответа и ввод данных
+[23:53:56 FTL] Ввод при выборе задачи пуст.
+[23:57:04 INF] ------Приложение успешно запущено (через appsettings.json)------
+[23:57:04 INF] Запуск цикла программы
+[23:57:04 INF] Выбор вариантов ответа и ввод данных
+[23:57:04 FTL]    at TaskManager.Program.Main(String[] args) in D:\Vasnie Progi\C# projects\TaskManager\Program.cs:line 58
+[23:57:04 FTL] Ввод при выборе задачи пуст.
+[23:58:26 INF] ------Приложение успешно запущено (через appsettings.json)------
+[23:58:26 INF] Запуск цикла программы
+[23:58:26 INF] Выбор вариантов ответа и ввод данных
+[23:58:28 FTL]    at TaskManager.Program.Main(String[] args) in D:\Vasnie Progi\C# projects\TaskManager\Program.cs:line 59
+[23:58:28 FTL] Ввод при выборе задачи пуст.
+[23:58:36 INF] ------Приложение успешно запущено (через appsettings.json)------
+[23:58:36 INF] Запуск цикла программы
+[23:58:36 INF] Выбор вариантов ответа и ввод данных
+[23:58:37 FTL] TaskManager.NullOrWhiteSpace: Ввод при выборе задачи пуст.
+   at TaskManager.Program.Main(String[] args) in D:\Vasnie Progi\C# projects\TaskManager\Program.cs:line 59
+[23:58:37 FTL]    at TaskManager.Program.Main(String[] args) in D:\Vasnie Progi\C# projects\TaskManager\Program.cs:line 59
+[23:58:37 FTL] Ввод при выборе задачи пуст.
+[23:59:04 INF] ------Приложение успешно запущено (через appsettings.json)------
+[23:59:04 INF] Запуск цикла программы
+[23:59:04 INF] Выбор вариантов ответа и ввод данных
+[23:59:06 FTL] TaskManager.NullOrWhiteSpace: Ввод при выборе задачи пуст.
+   at TaskManager.Program.Main(String[] args) in D:\Vasnie Progi\C# projects\TaskManager\Program.cs:line 59
