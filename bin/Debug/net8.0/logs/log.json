@@ -1,0 +1,150 @@
+{"Timestamp":"2025-04-07T21:58:17.2335421+10:00","Level":"Information","MessageTemplate":"------Приложение успешно запущено (через appsettings.json)------"}
+{"Timestamp":"2025-04-07T21:58:17.2728435+10:00","Level":"Information","MessageTemplate":"Запуск цикла программы"}
+{"Timestamp":"2025-04-07T21:58:17.2737417+10:00","Level":"Information","MessageTemplate":"Выбор вариантов ответа и ввод данных"}
+{"Timestamp":"2025-04-07T21:58:21.2689646+10:00","Level":"Information","MessageTemplate":"Производится добавление задачи"}
+{"Timestamp":"2025-04-07T21:58:22.7862609+10:00","Level":"Information","MessageTemplate":"Начало операции AddTask()"}
+{"Timestamp":"2025-04-07T21:58:22.7875202+10:00","Level":"Information","MessageTemplate":"Задача «das» успешно добавлена"}
+{"Timestamp":"2025-04-07T21:58:22.7884121+10:00","Level":"Information","MessageTemplate":"Конец операции AddTask()"}
+{"Timestamp":"2025-04-07T21:58:22.7897071+10:00","Level":"Information","MessageTemplate":"Время работы AddTask(): 3 ms"}
+{"Timestamp":"2025-04-07T21:58:22.8020142+10:00","Level":"Information","MessageTemplate":"Выбор вариантов ответа и ввод данных"}
+{"Timestamp":"2025-04-07T21:58:23.9250750+10:00","Level":"Information","MessageTemplate":"Производится вывод списка задач"}
+{"Timestamp":"2025-04-07T21:58:23.9261909+10:00","Level":"Information","MessageTemplate":"Начало операции ListTasks()"}
+{"Timestamp":"2025-04-07T21:58:23.9269111+10:00","Level":"Information","MessageTemplate":"Всего выведено задач: 1"}
+{"Timestamp":"2025-04-07T21:58:23.9282887+10:00","Level":"Information","MessageTemplate":"{@Tasks}","Properties":{"Tasks":[{"Title":"das","_typeTag":"Task"}]}}
+{"Timestamp":"2025-04-07T21:58:23.9367633+10:00","Level":"Information","MessageTemplate":"Конец операции ListTasks()"}
+{"Timestamp":"2025-04-07T21:58:23.9375595+10:00","Level":"Information","MessageTemplate":"Время работы ListTasks(): 11 ms"}
+{"Timestamp":"2025-04-07T21:58:23.9382780+10:00","Level":"Information","MessageTemplate":"Выбор вариантов ответа и ввод данных"}
+{"Timestamp":"2025-04-07T21:58:24.9405757+10:00","Level":"Information","MessageTemplate":"Производится удаление задачи"}
+{"Timestamp":"2025-04-07T21:58:25.8204268+10:00","Level":"Information","MessageTemplate":"Начало операции RemoveTask()"}
+{"Timestamp":"2025-04-07T21:58:25.8213384+10:00","Level":"Information","MessageTemplate":"Задача «das» операции RemoveTask() успешно удалена."}
+{"Timestamp":"2025-04-07T21:58:25.8220097+10:00","Level":"Information","MessageTemplate":"Конец операции RemoveTask()"}
+{"Timestamp":"2025-04-07T21:58:25.8226413+10:00","Level":"Information","MessageTemplate":"Время работы RemoveTask(): 2 ms"}
+{"Timestamp":"2025-04-07T21:58:25.8233697+10:00","Level":"Information","MessageTemplate":"Выбор вариантов ответа и ввод данных"}
+{"Timestamp":"2025-04-07T21:58:26.5069836+10:00","Level":"Information","MessageTemplate":"Производится выход из программы"}
+{"Timestamp":"2025-04-07T21:58:26.5077594+10:00","Level":"Information","MessageTemplate":"Общее время работы программы: 9408 мс (9 сек.)"}
+{"Timestamp":"2025-04-07T21:58:26.5085177+10:00","Level":"Information","MessageTemplate":"------Завершение работы программы------"}
+{"Timestamp":"2025-04-07T23:51:04.7269574+10:00","Level":"Information","MessageTemplate":"------Приложение успешно запущено (через appsettings.json)------"}
+{"Timestamp":"2025-04-07T23:51:04.7674738+10:00","Level":"Information","MessageTemplate":"Запуск цикла программы"}
+{"Timestamp":"2025-04-07T23:51:04.7682192+10:00","Level":"Information","MessageTemplate":"Выбор вариантов ответа и ввод данных"}
+{"Timestamp":"2025-04-07T23:51:08.2008428+10:00","Level":"Fatal","MessageTemplate":"Ввод при выборе задачи пуст."}
+{"Timestamp":"2025-04-07T23:53:35.5063161+10:00","Level":"Information","MessageTemplate":"------Приложение успешно запущено (через appsettings.json)------"}
+{"Timestamp":"2025-04-07T23:53:35.5424471+10:00","Level":"Information","MessageTemplate":"Запуск цикла программы"}
+{"Timestamp":"2025-04-07T23:53:35.5431891+10:00","Level":"Information","MessageTemplate":"Выбор вариантов ответа и ввод данных"}
+{"Timestamp":"2025-04-07T23:53:37.2568805+10:00","Level":"Information","MessageTemplate":"Правильного ввода команды не произошло"}
+{"Timestamp":"2025-04-07T23:53:37.2578548+10:00","Level":"Information","MessageTemplate":"Выбор вариантов ответа и ввод данных"}
+{"Timestamp":"2025-04-07T23:53:55.4773285+10:00","Level":"Information","MessageTemplate":"Правильного ввода команды не произошло"}
+{"Timestamp":"2025-04-07T23:53:55.4782041+10:00","Level":"Information","MessageTemplate":"Выбор вариантов ответа и ввод данных"}
+{"Timestamp":"2025-04-07T23:53:56.5502664+10:00","Level":"Fatal","MessageTemplate":"Ввод при выборе задачи пуст."}
+{"Timestamp":"2025-04-07T23:57:04.3749421+10:00","Level":"Information","MessageTemplate":"------Приложение успешно запущено (через appsettings.json)------"}
+{"Timestamp":"2025-04-07T23:57:04.4091554+10:00","Level":"Information","MessageTemplate":"Запуск цикла программы"}
+{"Timestamp":"2025-04-07T23:57:04.4099744+10:00","Level":"Information","MessageTemplate":"Выбор вариантов ответа и ввод данных"}
+{"Timestamp":"2025-04-07T23:57:04.8721629+10:00","Level":"Fatal","MessageTemplate":"   at TaskManager.Program.Main(String[] args) in D:\\Vasnie Progi\\C# projects\\TaskManager\\Program.cs:line 58"}
+{"Timestamp":"2025-04-07T23:57:04.8730985+10:00","Level":"Fatal","MessageTemplate":"Ввод при выборе задачи пуст."}
+{"Timestamp":"2025-04-07T23:58:26.8719196+10:00","Level":"Information","MessageTemplate":"------Приложение успешно запущено (через appsettings.json)------"}
+{"Timestamp":"2025-04-07T23:58:26.9070964+10:00","Level":"Information","MessageTemplate":"Запуск цикла программы"}
+{"Timestamp":"2025-04-07T23:58:26.9078816+10:00","Level":"Information","MessageTemplate":"Выбор вариантов ответа и ввод данных"}
+{"Timestamp":"2025-04-07T23:58:28.0552916+10:00","Level":"Fatal","MessageTemplate":"   at TaskManager.Program.Main(String[] args) in D:\\Vasnie Progi\\C# projects\\TaskManager\\Program.cs:line 59"}
+{"Timestamp":"2025-04-07T23:58:28.0562075+10:00","Level":"Fatal","MessageTemplate":"Ввод при выборе задачи пуст."}
+{"Timestamp":"2025-04-07T23:58:36.6089198+10:00","Level":"Information","MessageTemplate":"------Приложение успешно запущено (через appsettings.json)------"}
+{"Timestamp":"2025-04-07T23:58:36.6483836+10:00","Level":"Information","MessageTemplate":"Запуск цикла программы"}
+{"Timestamp":"2025-04-07T23:58:36.6494153+10:00","Level":"Information","MessageTemplate":"Выбор вариантов ответа и ввод данных"}
+{"Timestamp":"2025-04-07T23:58:37.1508389+10:00","Level":"Fatal","MessageTemplate":"TaskManager.NullOrWhiteSpace: Ввод при выборе задачи пуст.\r\n   at TaskManager.Program.Main(String[] args) in D:\\Vasnie Progi\\C# projects\\TaskManager\\Program.cs:line 59"}
+{"Timestamp":"2025-04-07T23:58:37.1519652+10:00","Level":"Fatal","MessageTemplate":"   at TaskManager.Program.Main(String[] args) in D:\\Vasnie Progi\\C# projects\\TaskManager\\Program.cs:line 59"}
+{"Timestamp":"2025-04-07T23:58:37.1527517+10:00","Level":"Fatal","MessageTemplate":"Ввод при выборе задачи пуст."}
+{"Timestamp":"2025-04-07T23:59:04.7826387+10:00","Level":"Information","MessageTemplate":"------Приложение успешно запущено (через appsettings.json)------"}
+{"Timestamp":"2025-04-07T23:59:04.8234267+10:00","Level":"Information","MessageTemplate":"Запуск цикла программы"}
+{"Timestamp":"2025-04-07T23:59:04.8242596+10:00","Level":"Information","MessageTemplate":"Выбор вариантов ответа и ввод данных"}
+{"Timestamp":"2025-04-07T23:59:06.1462100+10:00","Level":"Fatal","MessageTemplate":"TaskManager.NullOrWhiteSpace: Ввод при выборе задачи пуст.\r\n   at TaskManager.Program.Main(String[] args) in D:\\Vasnie Progi\\C# projects\\TaskManager\\Program.cs:line 59"}
+{"Timestamp":"2025-04-08T00:05:38.9112111+10:00","Level":"Information","MessageTemplate":"------Приложение успешно запущено (через appsettings.json)------"}
+{"Timestamp":"2025-04-08T00:05:38.9507223+10:00","Level":"Information","MessageTemplate":"Запуск цикла программы"}
+{"Timestamp":"2025-04-08T00:05:38.9515580+10:00","Level":"Information","MessageTemplate":"Выбор вариантов ответа и ввод данных"}
+{"Timestamp":"2025-04-08T00:05:41.3524100+10:00","Level":"Information","MessageTemplate":"Производится добавление задачи"}
+{"Timestamp":"2025-04-08T00:05:42.4338705+10:00","Level":"Information","MessageTemplate":"Начало операции AddTask()"}
+{"Timestamp":"2025-04-08T00:05:42.4391850+10:00","Level":"Error","MessageTemplate":"TaskManager.TaskLenghtMinimal: Минимальная длина названия задачи: 2 символа.\r\n   at TaskManager.Program.AddTask(String название_задачи) in D:\\Vasnie Progi\\C# projects\\TaskManager\\Program.cs:line 143\r\n   at TaskManager.Program.Main(String[] args) in D:\\Vasnie Progi\\C# projects\\TaskManager\\Program.cs:line 70"}
+{"Timestamp":"2025-04-08T00:12:36.9308012+10:00","Level":"Information","MessageTemplate":"------Приложение успешно запущено (через appsettings.json)------"}
+{"Timestamp":"2025-04-08T00:12:36.9652985+10:00","Level":"Information","MessageTemplate":"Запуск цикла программы"}
+{"Timestamp":"2025-04-08T00:12:36.9660954+10:00","Level":"Information","MessageTemplate":"Выбор вариантов ответа и ввод данных"}
+{"Timestamp":"2025-04-08T00:12:38.8077351+10:00","Level":"Warning","MessageTemplate":"Непредвиденная некритичная ошибка программы."}
+{"Timestamp":"2025-04-08T00:12:38.8087331+10:00","Level":"Information","MessageTemplate":"Выбор вариантов ответа и ввод данных"}
+{"Timestamp":"2025-04-08T00:12:41.9761870+10:00","Level":"Warning","MessageTemplate":"Непредвиденная некритичная ошибка программы."}
+{"Timestamp":"2025-04-08T00:12:41.9769994+10:00","Level":"Information","MessageTemplate":"Выбор вариантов ответа и ввод данных"}
+{"Timestamp":"2025-04-08T00:13:33.7168208+10:00","Level":"Information","MessageTemplate":"------Приложение успешно запущено (через appsettings.json)------"}
+{"Timestamp":"2025-04-08T00:13:33.7536399+10:00","Level":"Information","MessageTemplate":"Запуск цикла программы"}
+{"Timestamp":"2025-04-08T00:13:33.7544775+10:00","Level":"Information","MessageTemplate":"Выбор вариантов ответа и ввод данных"}
+{"Timestamp":"2025-04-08T00:13:35.1931721+10:00","Level":"Error","MessageTemplate":"TaskManager.NullOrWhiteSpace: Ввод при выборе задачи пуст.\r\n   at TaskManager.Program.Main(String[] args) in D:\\Vasnie Progi\\C# projects\\TaskManager\\Program.cs:line 64"}
+{"Timestamp":"2025-04-08T00:13:35.1941611+10:00","Level":"Information","MessageTemplate":"Выбор вариантов ответа и ввод данных"}
+{"Timestamp":"2025-04-08T00:13:49.8845821+10:00","Level":"Information","MessageTemplate":"Правильного ввода команды не произошло"}
+{"Timestamp":"2025-04-08T00:13:49.8855013+10:00","Level":"Information","MessageTemplate":"Выбор вариантов ответа и ввод данных"}
+{"Timestamp":"2025-04-08T00:14:23.6402341+10:00","Level":"Information","MessageTemplate":"------Приложение успешно запущено (через appsettings.json)------"}
+{"Timestamp":"2025-04-08T00:14:23.6765195+10:00","Level":"Information","MessageTemplate":"Запуск цикла программы"}
+{"Timestamp":"2025-04-08T00:14:23.6772627+10:00","Level":"Information","MessageTemplate":"Выбор вариантов ответа и ввод данных"}
+{"Timestamp":"2025-04-08T00:14:24.6659378+10:00","Level":"Warning","MessageTemplate":"Правильного ввода команды не произошло"}
+{"Timestamp":"2025-04-08T00:14:24.6669534+10:00","Level":"Information","MessageTemplate":"Выбор вариантов ответа и ввод данных"}
+{"Timestamp":"2025-04-08T00:14:31.9817822+10:00","Level":"Information","MessageTemplate":"Производится добавление задачи"}
+{"Timestamp":"2025-04-08T00:14:33.2722165+10:00","Level":"Information","MessageTemplate":"Начало операции AddTask()"}
+{"Timestamp":"2025-04-08T00:14:33.2768574+10:00","Level":"Error","MessageTemplate":"TaskManager.TaskLenghtMinimal: Минимальная длина названия задачи: 2 символа.\r\n   at TaskManager.Program.AddTask(String название_задачи) in D:\\Vasnie Progi\\C# projects\\TaskManager\\Program.cs:line 152\r\n   at TaskManager.Program.Main(String[] args) in D:\\Vasnie Progi\\C# projects\\TaskManager\\Program.cs:line 75"}
+{"Timestamp":"2025-04-08T00:14:33.2777727+10:00","Level":"Information","MessageTemplate":"Выбор вариантов ответа и ввод данных"}
+{"Timestamp":"2025-04-08T00:14:44.0490727+10:00","Level":"Information","MessageTemplate":"Производится вывод списка задач"}
+{"Timestamp":"2025-04-08T00:14:44.0502004+10:00","Level":"Information","MessageTemplate":"Начало операции ListTasks()"}
+{"Timestamp":"2025-04-08T00:14:44.0509804+10:00","Level":"Information","MessageTemplate":"Выведенный список задач пуст"}
+{"Timestamp":"2025-04-08T00:14:44.0516686+10:00","Level":"Information","MessageTemplate":"Конец операции ListTasks()"}
+{"Timestamp":"2025-04-08T00:14:44.0526590+10:00","Level":"Information","MessageTemplate":"Время работы ListTasks(): 2 ms"}
+{"Timestamp":"2025-04-08T00:14:44.0533131+10:00","Level":"Information","MessageTemplate":"Выбор вариантов ответа и ввод данных"}
+{"Timestamp":"2025-04-08T00:14:56.5715280+10:00","Level":"Information","MessageTemplate":"Производится удаление задачи"}
+{"Timestamp":"2025-04-08T00:14:59.8922173+10:00","Level":"Information","MessageTemplate":"Начало операции RemoveTask()"}
+{"Timestamp":"2025-04-08T00:14:59.8930500+10:00","Level":"Error","MessageTemplate":"Задача «as» не найдена."}
+{"Timestamp":"2025-04-08T00:14:59.8938100+10:00","Level":"Information","MessageTemplate":"Конец операции RemoveTask()"}
+{"Timestamp":"2025-04-08T00:14:59.8945774+10:00","Level":"Information","MessageTemplate":"Время работы RemoveTask(): 2 ms"}
+{"Timestamp":"2025-04-08T00:14:59.8953222+10:00","Level":"Information","MessageTemplate":"Выбор вариантов ответа и ввод данных"}
+{"Timestamp":"2025-04-08T00:15:07.7511530+10:00","Level":"Information","MessageTemplate":"Производится добавление задачи"}
+{"Timestamp":"2025-04-08T00:15:12.6872288+10:00","Level":"Information","MessageTemplate":"Начало операции AddTask()"}
+{"Timestamp":"2025-04-08T00:15:12.6882922+10:00","Level":"Information","MessageTemplate":"Задача «sa» успешно добавлена"}
+{"Timestamp":"2025-04-08T00:15:12.6889768+10:00","Level":"Information","MessageTemplate":"Конец операции AddTask()"}
+{"Timestamp":"2025-04-08T00:15:12.6896958+10:00","Level":"Information","MessageTemplate":"Время работы AddTask(): 2 ms"}
+{"Timestamp":"2025-04-08T00:15:12.6904786+10:00","Level":"Information","MessageTemplate":"Выбор вариантов ответа и ввод данных"}
+{"Timestamp":"2025-04-08T00:15:20.1869068+10:00","Level":"Error","MessageTemplate":"TaskManager.NullOrWhiteSpace: Ввод при выборе задачи пуст.\r\n   at TaskManager.Program.Main(String[] args) in D:\\Vasnie Progi\\C# projects\\TaskManager\\Program.cs:line 64"}
+{"Timestamp":"2025-04-08T00:15:20.1876856+10:00","Level":"Information","MessageTemplate":"Выбор вариантов ответа и ввод данных"}
+{"Timestamp":"2025-04-08T00:15:35.9969890+10:00","Level":"Warning","MessageTemplate":"Правильного ввода команды не произошло"}
+{"Timestamp":"2025-04-08T00:15:35.9978993+10:00","Level":"Information","MessageTemplate":"Выбор вариантов ответа и ввод данных"}
+{"Timestamp":"2025-04-08T00:15:43.8885673+10:00","Level":"Error","MessageTemplate":"TaskManager.NullOrWhiteSpace: Ввод при выборе задачи пуст.\r\n   at TaskManager.Program.Main(String[] args) in D:\\Vasnie Progi\\C# projects\\TaskManager\\Program.cs:line 64"}
+{"Timestamp":"2025-04-08T00:15:43.8894044+10:00","Level":"Information","MessageTemplate":"Выбор вариантов ответа и ввод данных"}
+{"Timestamp":"2025-04-08T00:15:44.6352518+10:00","Level":"Error","MessageTemplate":"TaskManager.NullOrWhiteSpace: Ввод при выборе задачи пуст.\r\n   at TaskManager.Program.Main(String[] args) in D:\\Vasnie Progi\\C# projects\\TaskManager\\Program.cs:line 64"}
+{"Timestamp":"2025-04-08T00:15:44.6361106+10:00","Level":"Information","MessageTemplate":"Выбор вариантов ответа и ввод данных"}
+{"Timestamp":"2025-04-08T00:15:50.5985189+10:00","Level":"Information","MessageTemplate":"Производится выход из программы"}
+{"Timestamp":"2025-04-08T00:15:50.5992712+10:00","Level":"Information","MessageTemplate":"Общее время работы программы: 87084 мс (87 сек.)"}
+{"Timestamp":"2025-04-08T00:15:50.5999738+10:00","Level":"Information","MessageTemplate":"------Завершение работы программы------"}
+{"Timestamp":"2025-04-08T00:19:57.5108596+10:00","Level":"Information","MessageTemplate":"------Приложение успешно запущено (через appsettings.json)------"}
+{"Timestamp":"2025-04-08T00:19:57.5468912+10:00","Level":"Information","MessageTemplate":"Запуск цикла программы"}
+{"Timestamp":"2025-04-08T00:19:57.5476175+10:00","Level":"Information","MessageTemplate":"Выбор вариантов ответа и ввод данных"}
+{"Timestamp":"2025-04-08T00:20:00.8768619+10:00","Level":"Information","MessageTemplate":"Производится добавление задачи"}
+{"Timestamp":"2025-04-08T00:20:03.0721384+10:00","Level":"Information","MessageTemplate":"Начало операции AddTask()"}
+{"Timestamp":"2025-04-08T00:20:03.0732129+10:00","Level":"Information","MessageTemplate":"Задача «выф вфы » успешно добавлена"}
+{"Timestamp":"2025-04-08T00:20:03.0739301+10:00","Level":"Information","MessageTemplate":"Конец операции AddTask()"}
+{"Timestamp":"2025-04-08T00:20:03.0750672+10:00","Level":"Information","MessageTemplate":"Время работы AddTask(): 2 ms"}
+{"Timestamp":"2025-04-08T00:20:03.0757969+10:00","Level":"Information","MessageTemplate":"Выбор вариантов ответа и ввод данных"}
+{"Timestamp":"2025-04-08T00:20:07.7228236+10:00","Level":"Information","MessageTemplate":"Производится вывод списка задач"}
+{"Timestamp":"2025-04-08T00:20:07.7238531+10:00","Level":"Information","MessageTemplate":"Начало операции ListTasks()"}
+{"Timestamp":"2025-04-08T00:20:07.7246104+10:00","Level":"Information","MessageTemplate":"Всего выведено задач: 1"}
+{"Timestamp":"2025-04-08T00:20:07.7259292+10:00","Level":"Information","MessageTemplate":"{@Tasks}","Properties":{"Tasks":[{"Title":"выф вфы ","_typeTag":"Task"}]}}
+{"Timestamp":"2025-04-08T00:20:07.7342738+10:00","Level":"Information","MessageTemplate":"Конец операции ListTasks()"}
+{"Timestamp":"2025-04-08T00:20:07.7350342+10:00","Level":"Information","MessageTemplate":"Время работы ListTasks(): 11 ms"}
+{"Timestamp":"2025-04-08T00:20:07.7357346+10:00","Level":"Information","MessageTemplate":"Выбор вариантов ответа и ввод данных"}
+{"Timestamp":"2025-04-08T00:32:35.9154697+10:00","Level":"Information","MessageTemplate":"------Приложение успешно запущено (через appsettings.json)------"}
+{"Timestamp":"2025-04-08T00:32:35.9497980+10:00","Level":"Information","MessageTemplate":"Запуск цикла программы"}
+{"Timestamp":"2025-04-08T00:32:35.9509658+10:00","Level":"Information","MessageTemplate":"Выбор вариантов ответа и ввод данных"}
+{"Timestamp":"2025-04-08T00:32:41.3598458+10:00","Level":"Information","MessageTemplate":"Производится добавление задачи"}
+{"Timestamp":"2025-04-08T00:32:42.7263351+10:00","Level":"Information","MessageTemplate":"Начало операции AddTask()"}
+{"Timestamp":"2025-04-08T00:32:42.7273890+10:00","Level":"Information","MessageTemplate":"Задача «выф» успешно добавлена"}
+{"Timestamp":"2025-04-08T00:32:42.7280683+10:00","Level":"Information","MessageTemplate":"Конец операции AddTask()"}
+{"Timestamp":"2025-04-08T00:32:42.7292290+10:00","Level":"Information","MessageTemplate":"Время работы AddTask(): 2 ms"}
+{"Timestamp":"2025-04-08T00:32:42.7299386+10:00","Level":"Information","MessageTemplate":"Выбор вариантов ответа и ввод данных"}
+{"Timestamp":"2025-04-08T00:32:44.0247986+10:00","Level":"Information","MessageTemplate":"Производится вывод списка задач"}
+{"Timestamp":"2025-04-08T00:32:44.0258425+10:00","Level":"Information","MessageTemplate":"Начало операции ListTasks()"}
+{"Timestamp":"2025-04-08T00:32:44.0265554+10:00","Level":"Information","MessageTemplate":"Всего выведено задач: 1"}
+{"Timestamp":"2025-04-08T00:32:44.0278826+10:00","Level":"Information","MessageTemplate":"{@Tasks}","Properties":{"Tasks":[{"Title":"выф","_typeTag":"Task"}]}}
+{"Timestamp":"2025-04-08T00:32:44.0362022+10:00","Level":"Information","MessageTemplate":"Конец операции ListTasks()"}
+{"Timestamp":"2025-04-08T00:32:44.0368897+10:00","Level":"Information","MessageTemplate":"Время работы ListTasks(): 11 ms"}
+{"Timestamp":"2025-04-08T00:32:44.0375392+10:00","Level":"Information","MessageTemplate":"Выбор вариантов ответа и ввод данных"}
+{"Timestamp":"2025-04-08T00:32:45.0298060+10:00","Level":"Information","MessageTemplate":"Производится выход из программы"}
+{"Timestamp":"2025-04-08T00:32:45.0306772+10:00","Level":"Information","MessageTemplate":"Общее время работы программы: 9246 мс (9 сек.)"}
+{"Timestamp":"2025-04-08T00:32:45.0313577+10:00","Level":"Information","MessageTemplate":"------Завершение работы программы------"}
