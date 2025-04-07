@@ -1,0 +1,25 @@
+{"Timestamp":"2025-04-07T21:58:17.2335421+10:00","Level":"Information","MessageTemplate":"------Приложение успешно запущено (через appsettings.json)------"}
+{"Timestamp":"2025-04-07T21:58:17.2728435+10:00","Level":"Information","MessageTemplate":"Запуск цикла программы"}
+{"Timestamp":"2025-04-07T21:58:17.2737417+10:00","Level":"Information","MessageTemplate":"Выбор вариантов ответа и ввод данных"}
+{"Timestamp":"2025-04-07T21:58:21.2689646+10:00","Level":"Information","MessageTemplate":"Производится добавление задачи"}
+{"Timestamp":"2025-04-07T21:58:22.7862609+10:00","Level":"Information","MessageTemplate":"Начало операции AddTask()"}
+{"Timestamp":"2025-04-07T21:58:22.7875202+10:00","Level":"Information","MessageTemplate":"Задача «das» успешно добавлена"}
+{"Timestamp":"2025-04-07T21:58:22.7884121+10:00","Level":"Information","MessageTemplate":"Конец операции AddTask()"}
+{"Timestamp":"2025-04-07T21:58:22.7897071+10:00","Level":"Information","MessageTemplate":"Время работы AddTask(): 3 ms"}
+{"Timestamp":"2025-04-07T21:58:22.8020142+10:00","Level":"Information","MessageTemplate":"Выбор вариантов ответа и ввод данных"}
+{"Timestamp":"2025-04-07T21:58:23.9250750+10:00","Level":"Information","MessageTemplate":"Производится вывод списка задач"}
+{"Timestamp":"2025-04-07T21:58:23.9261909+10:00","Level":"Information","MessageTemplate":"Начало операции ListTasks()"}
+{"Timestamp":"2025-04-07T21:58:23.9269111+10:00","Level":"Information","MessageTemplate":"Всего выведено задач: 1"}
+{"Timestamp":"2025-04-07T21:58:23.9282887+10:00","Level":"Information","MessageTemplate":"{@Tasks}","Properties":{"Tasks":[{"Title":"das","_typeTag":"Task"}]}}
+{"Timestamp":"2025-04-07T21:58:23.9367633+10:00","Level":"Information","MessageTemplate":"Конец операции ListTasks()"}
+{"Timestamp":"2025-04-07T21:58:23.9375595+10:00","Level":"Information","MessageTemplate":"Время работы ListTasks(): 11 ms"}
+{"Timestamp":"2025-04-07T21:58:23.9382780+10:00","Level":"Information","MessageTemplate":"Выбор вариантов ответа и ввод данных"}
+{"Timestamp":"2025-04-07T21:58:24.9405757+10:00","Level":"Information","MessageTemplate":"Производится удаление задачи"}
+{"Timestamp":"2025-04-07T21:58:25.8204268+10:00","Level":"Information","MessageTemplate":"Начало операции RemoveTask()"}
+{"Timestamp":"2025-04-07T21:58:25.8213384+10:00","Level":"Information","MessageTemplate":"Задача «das» операции RemoveTask() успешно удалена."}
+{"Timestamp":"2025-04-07T21:58:25.8220097+10:00","Level":"Information","MessageTemplate":"Конец операции RemoveTask()"}
+{"Timestamp":"2025-04-07T21:58:25.8226413+10:00","Level":"Information","MessageTemplate":"Время работы RemoveTask(): 2 ms"}
+{"Timestamp":"2025-04-07T21:58:25.8233697+10:00","Level":"Information","MessageTemplate":"Выбор вариантов ответа и ввод данных"}
+{"Timestamp":"2025-04-07T21:58:26.5069836+10:00","Level":"Information","MessageTemplate":"Производится выход из программы"}
+{"Timestamp":"2025-04-07T21:58:26.5077594+10:00","Level":"Information","MessageTemplate":"Общее время работы программы: 9408 мс (9 сек.)"}
+{"Timestamp":"2025-04-07T21:58:26.5085177+10:00","Level":"Information","MessageTemplate":"------Завершение работы программы------"}

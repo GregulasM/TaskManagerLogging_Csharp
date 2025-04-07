@@ -42,3 +42,4 @@ D:\Vasnie Progi\C# projects\TaskManager\bin\Debug\net8.0\System.Text.Json.dll
 D:\Vasnie Progi\C# projects\TaskManager\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 D:\Vasnie Progi\C# projects\TaskManager\obj\Debug\net8.0\TaskManager.csproj.AssemblyReference.cache
 D:\Vasnie Progi\C# projects\TaskManager\obj\Debug\net8.0\TaskMana.F3FB485A.Up2Date
+D:\Vasnie Progi\C# projects\TaskManager\obj\Debug\net8.0\TaskManager.sourcelink.json

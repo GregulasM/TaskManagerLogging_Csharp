@@ -25,6 +25,8 @@ namespace TaskManager
 
         static void Main(string[] args)
         {
+            Stopwatch stopwatch_main = Stopwatch.StartNew();
+            
 
             var configuration = new ConfigurationBuilder()
                 .AddJsonFile("appsettings.json", optional: false, reloadOnChange: true)
@@ -53,22 +55,34 @@ namespace TaskManager
                         Log.Information("Производится добавление задачи");
                         Console.WriteLine("Введите название задачи:");
                         string название_задачи = Console.ReadLine();
+                        Stopwatch stopwatch_add_task = Stopwatch.StartNew();
                         AddTask(название_задачи);
+                        stopwatch_add_task.Stop();
+                        Log.Information($"Время работы AddTask(): {stopwatch_add_task.ElapsedMilliseconds} ms");
                         break;
 
                     case "2":
                         Log.Information("Производится удаление задачи");
                         Console.WriteLine("Введите название задачи для удаления:");
                         string removeTitle = Console.ReadLine();
+                        Stopwatch stopwatch_remove_task = Stopwatch.StartNew();
                         RemoveTask(removeTitle);
+                        stopwatch_remove_task.Stop();
+                        Log.Information($"Время работы RemoveTask(): {stopwatch_remove_task.ElapsedMilliseconds} ms");
                         break;
 
                     case "3":
                         Log.Information("Производится вывод списка задач");
+                        Stopwatch stopwatch_list_task = Stopwatch.StartNew();
                         ListTasks();
+                        stopwatch_list_task.Stop();
+                        Log.Information($"Время работы ListTasks(): {stopwatch_list_task.ElapsedMilliseconds} ms");
                         break;
                     
                     case "4":
+                        Log.Information("Производится выход из программы");
+                        stopwatch_main.Stop();
+                        Log.Information($"Общее время работы программы: {stopwatch_main.ElapsedMilliseconds} мс ({stopwatch_main.ElapsedMilliseconds / 1000} сек.)");
                         Log.Information("------Завершение работы программы------");
                         Environment.Exit(0);
                         break;
